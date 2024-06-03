@@ -21,8 +21,8 @@ This pipeline utilizes SignalP, WoLF-PSORT, TMHMM, PredGPI, and EffectorP to pre
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/effector-prediction-pipeline.git
-cd effector-prediction-pipeline
+git clone https://github.com/CGNAbioinfo/FunEffect.git
+cd FunEffect
 ```
 
 ## Install dependencies:
